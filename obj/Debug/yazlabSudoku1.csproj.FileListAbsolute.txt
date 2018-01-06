@@ -1,0 +1,52 @@
+c:\users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\yazlabSudoku1.exe.config
+c:\users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\yazlabSudoku1.exe
+c:\users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\yazlabSudoku1.pdb
+c:\users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\obj\Debug\yazlabSudoku1.csprojResolveAssemblyReference.cache
+c:\users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\obj\Debug\yazlabSudoku1.Form1.resources
+c:\users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\obj\Debug\yazlabSudoku1.Properties.Resources.resources
+c:\users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\obj\Debug\yazlabSudoku1.csproj.GenerateResource.Cache
+c:\users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\obj\Debug\yazlabSudoku1.exe
+c:\users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\obj\Debug\yazlabSudoku1.pdb
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\obj\Debug\yazlabSudoku1.Form2.resources
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\merve\documents\visual studio 2015\Projects\yazlabSudoku1\yazlabSudoku1\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\merve\Desktop\yazlabSudoku1\yazlabSudoku1\bin\Debug\yazlabSudoku1.exe.config
+C:\Users\merve\Desktop\yazlabSudoku1\yazlabSudoku1\obj\Debug\yazlabSudoku1.exe
+C:\Users\merve\Desktop\yazlabSudoku1\yazlabSudoku1\obj\Debug\yazlabSudoku1.pdb
+C:\Users\merve\Desktop\CENG\5.yariyil\yazlabSudoku1\yazlabSudoku1\bin\Debug\yazlabSudoku1.exe.config
+C:\Users\merve\Desktop\CENG\5.yariyil\yazlabSudoku1\yazlabSudoku1\obj\Debug\yazlabSudoku1.exe
+C:\Users\merve\Desktop\CENG\5.yariyil\yazlabSudoku1\yazlabSudoku1\obj\Debug\yazlabSudoku1.pdb
